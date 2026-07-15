@@ -41,7 +41,7 @@
 └──────────────────────────────────────────────────────────┘
 ```
 
-Vier Tools, ein roter Faden: **praxisnahe B2B-Software für den Schweizer & europäischen Markt** — von Logistik über FinTech bis Procurement. Fokus auf sauberes Design, echte Compliance (DSG/DSGVO) und Systeme, die Teams wirklich täglich nutzen wollen.
+Vier Tools, ein roter Faden: **praxisnahe B2B-Software für den Schweizer & europäischen Markt** — von Logistik über FinTech bis Procurement. Fokus auf sauberes Design und Systeme, die Teams wirklich täglich nutzen wollen.
 
 ---
 
