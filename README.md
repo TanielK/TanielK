@@ -30,14 +30,14 @@
 
 ---
 
-### ⚡ Was ich baue
+### ⚡ Woran ich arbeite
 
 ```
 ┌──────────────────────────────────────────────────────────┐
-│  📦 LogiCore B2B Suite    → On-Premise Logistics Platform │
-│  🔄 Trade-Up!             → Swipe-based Trading App       │
-│  🏦 Beratungsanalyse-Tool → Financial Advisory Workflow   │
-│  ⛏️  Rohstoff-Einkauf      → Raw Material Procurement      │
+│  📦 LogiCore B2B Suite    → On-Premise Logistics Platform│
+│  🔄 Trade-Up!             → Swipe-based Trading App      │
+│  🏦 Beratungsanalyse-Tool → Financial Advisory Workflow  │
+│  ⛏️ Rohstoff-Einkauf      → Raw Material Procurement     │
 └──────────────────────────────────────────────────────────┘
 ```
 
